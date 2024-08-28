@@ -15,7 +15,7 @@ The **Fully Functioning Chat Messenger** is a cross-platform mobile app develope
   - Secure sign-in using Firebase authentication.
 
 - **Image Sharing:**
-  - Send and receive images with a Snapchat-style UI.
+  - Send and receive images with a whatsapp-style UI.
   - Images stored locally in SQLite, not cluttering the device gallery.
 
 - **Contact Integration:**
@@ -101,7 +101,6 @@ The **Fully Functioning Chat Messenger** is a cross-platform mobile app develope
 
 ## Snapshots
 
-This structure ensures that your README is clear, professional, and easy for others to understand. It highlights key aspects of the project, your contributions, and the overall impact.
 ![Onboarding](https://github.com/user-attachments/assets/3f0ebaa9-8e03-4648-938d-7d63b43972c2)
 ![Sign in](https://github.com/user-attachments/assets/d6b4b73a-c0bd-49cd-99d6-533c2e690193)
 ![Home](https://github.com/user-attachments/assets/868556d4-050a-469b-bcc6-d262c3dc0337)
